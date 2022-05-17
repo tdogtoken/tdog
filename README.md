@@ -1,2 +1,2 @@
 # Tdog Token
-Welcome to Tdog Token Platform ! https://tdogtoken.github.io/tdog
+Welcome to Tdog Token Platform  https://tdogtoken.github.io/tdog
